@@ -1,0 +1,13 @@
+{
+    "name": "AngularJS Web App Boilerplate",
+    "dependencies": {
+        "jquery" : "~1.10.2",
+        "jquery.ui" : "latest",
+        "modernizr" : "latest",
+        "angular" : "latest",
+        "bootstrap" : "latest",
+        "string.js" : "https://github.com/jprichardson/string.js.git#~1.2.0",
+        "font-awesome" : "latest",
+        "jquery-hoverIntent" : "latest"
+    }
+}
