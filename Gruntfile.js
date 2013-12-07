@@ -54,11 +54,11 @@ module.exports = function(grunt) {
         },
         files: {
           'app/js/app-angular.min.js': [
-          'app/js/angular/app.js',
-          'app/js/angular/controllers/*.js',
-          'app/js/angular/directives/*.js',
-          'app/js/angular/filters/*.js',
-          'app/js/angular/services/*.js',
+            'app/js/angular/app.js',
+            'app/js/angular/controllers/*.js',
+            'app/js/angular/directives/*.js',
+            'app/js/angular/filters/*.js',
+            'app/js/angular/services/*.js'
           ],
           'app/js/app.min.js': [
             'app/js/app/*.js',
@@ -101,7 +101,7 @@ module.exports = function(grunt) {
       },
       faker: {
         files: [ 'app/js/json/faker-format.json'],
-        tasks: ['faker']
+        tasks: ['faker'],
         options: {
           livereload: true
         }
