@@ -9,6 +9,7 @@ A basic starting point for a Frontend Web Application using AngularJS as the MV*
 * [Folder Structure](#folder-structure)
 
 ##App Stack
+
 * [nodeJS](http://nodejs.org/)
 	* [Grunt](http://gruntjs.com/)
 		* [grunt-cli](https://github.com/nDmitry/grunt-autoprefixer)
@@ -47,6 +48,12 @@ From the command line, in a terminal, go to the root directory and run:
 ```javascript
 > npm install
 ```
+#####Step 4: Get Bower libraries
+
+Install bower globally (if you haven't already).
+```javascript
+> npm install -g bower
+> ```
 
 #####Step 5: Get Bower libraries
 
