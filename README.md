@@ -53,7 +53,7 @@ From the command line, in a terminal, go to the root directory and run:
 Install bower globally (if you haven't already).
 ```javascript
 > npm install -g bower
-> ```
+```
 
 #####Step 5: Get Bower libraries
 
