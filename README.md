@@ -48,7 +48,7 @@ From the command line, in a terminal, go to the root directory and run:
 ```javascript
 > npm install
 ```
-#####Step 4: Get Bower libraries
+#####Step 4: Install Bower globally
 
 Install bower globally (if you haven't already).
 ```javascript
